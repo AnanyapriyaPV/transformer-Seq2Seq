@@ -1,4 +1,4 @@
-# Transformer Seq2Seq – LLM Exercise
+# Transformer Seq2Seq
 
 This project implements a **basic Transformer-based Seq2Seq model using PyTorch**.  
 It was developed as part of an **exercise for understanding Large Language Models (LLMs)** and the internal architecture of Transformer encoder–decoder networks.
